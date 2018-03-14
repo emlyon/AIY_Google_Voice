@@ -1,3 +1,6 @@
+https://aiyprojects.withgoogle.com/voice
+<br>
+
 Matériel à fournir en complément du kit:
 - Raspberry Pi + carte SD (micro)
 - Câble HDMI
