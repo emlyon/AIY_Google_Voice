@@ -35,107 +35,103 @@ https://forums.pimoroni.com/t/google-aiy-voice-kit-change-language/6397/3
 exemple commande: "src/examples/voice/assistant_library_demo.py
 <br>
 
-<b>TUTORIAL</b>
-
 <b><font color="5fa9f9">LIST OF MATERIALS</b>
-
-<br><br>
-
+<b>TUTORIAL</b>
 
 <b><font color="5fa9f9">1. ASSEMBLE THE HARDWARE</b>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-1.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-1.jpg" width="600">
 </p>
 <p align="left">
 <font color="56c0ef">1.</font> Find your Raspberry Pi 3 and the two plastic standoffs that came with your kit.<br>Insert the standoffs into the two yellow holes opposite the 40-pin box header on your Raspberry Pi 3. They should snap into place.
 </p><br>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-2.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-2.jpg" width="600">
 </p>
 <p align="left">
 <font color="56c0ef">2.</font> Take your Voice HAT accessory board and attach it to the Raspberry Pi 3 box header.<br>Gently press down to make sure the pins are secure. On the other side, press down to snap the spacers into place.
 </p><br>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-3.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-3.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-4.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-4.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-5.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-5.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-6.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-6.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-7.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-7.jpg" width="600">
 </p>
 <br><br>
 
 <b><font color="5fa9f9">2. FOLD THE CARDBOARD<br></b>
 <b>2.1 BUILD THE BOX</b>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/box-1.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/box-1.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/box-2.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/box-2.jpg" width="600">
 </p>
 <br>
 <b>2.2 BUILD THE FRAME</b>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-1.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-1.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-2.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-2.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-3.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-3.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-4.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-4.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-5.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-5.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-6.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/frame-6.jpg" width="600">
 </p>
 <br><br>
 
 
 <b><font color="5fa9f9">3. PUT IT ALL TOGETHER</b>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-1.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-1.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-2.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-2.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-3.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-3.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-4.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-4.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-5.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-5.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-6.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-6.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-6-1.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-6-1.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-7.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-7.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-8.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-8.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-9.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-9.jpg" width="600">
 </p>
 <p align="left">
-  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-10.jpg"/>
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-10.jpg" width="600">
 </p>
 <br><br>
 
