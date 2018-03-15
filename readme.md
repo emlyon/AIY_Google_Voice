@@ -36,6 +36,7 @@ exemple commande: "src/examples/voice/assistant_library_demo.py
 <br>
 
 <b><font color="5fa9f9">LIST OF MATERIALS</b>
+<br><br>
 <b>TUTORIAL</b>
 
 <b><font color="5fa9f9">1. ASSEMBLE THE HARDWARE</b>
