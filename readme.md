@@ -36,39 +36,83 @@ exemple commande: "src/examples/voice/assistant_library_demo.py
 <br>
 
 <b><font color="5fa9f9">LIST OF MATERIALS</b>
-<b>TUTORIAL</b>
+<p align="left">
+  <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/materials.jpg" width="600">
+</p>
+Open the box and verify you have all of the necessary components in your kit. You’ll also need a couple of tools for assembly.
 
-<b><font color="5fa9f9">1. ASSEMBLE THE HARDWARE</b>
+IN YOUR KIT
+1. Voice HAT accessory board (×1)
+2. Voice HAT microphone board (×1)
+3. Plastic standoffs (×2)
+4. 3” speaker (wires attached) (×1)
+5. Arcade-style push button (×1)
+6. 4-wire button cable (×1)
+7. 5-wire daughter board cable (×1)
+8. External cardboard box (×1)
+9. Internal cardboard frame
+
+NOT INCLUDED
+- Raspberry Pi 3 (×1)
+- SD card (×1)
+- Scotch tape
+
+<b>TUTORIAL</b><br>
+
+<b>1. ASSEMBLE THE HARDWARE</b>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-1.jpg" width="600">
 </p>
 <p align="left">
-<font color="56c0ef">1.</font> Find your Raspberry Pi 3 and the two plastic standoffs that came with your kit.<br>Insert the standoffs into the two yellow holes opposite the 40-pin box header on your Raspberry Pi 3. They should snap into place.
+1/ Find your Raspberry Pi 3 and the two plastic standoffs that came with your kit.<br>Insert the standoffs into the two yellow holes opposite the 40-pin box header on your Raspberry Pi 3. They should snap into place.
 </p><br>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-2.jpg" width="600">
 </p>
 <p align="left">
-<font color="56c0ef">2.</font> Take your Voice HAT accessory board and attach it to the Raspberry Pi 3 box header.<br>Gently press down to make sure the pins are secure. On the other side, press down to snap the spacers into place.
+2/ Take your Voice HAT accessory board and attach it to the Raspberry Pi 3 box header.<br>Gently press down to make sure the pins are secure. On the other side, press down to snap the spacers into place.
 </p><br>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-3.jpg" width="600">
 </p>
 <p align="left">
+3/ Find the speaker with the red and black wires attached. Insert the speaker’s red wire end into the “+” terminal on the Voice HAT blue screw connector.
+<br>
+Do the same for the black wire end into the “-” terminal. At this point, they should be sitting there unsecured.
+</p><br>
+<p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-4.jpg" width="600">
 </p>
+<p align="left">
+4/ Now screw the wires in place with a Phillips “00” screwdriver.
+<br>
+Gently tug on the wires to make sure they’re secure.
+</p><br>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-5.jpg" width="600">
 </p>
 <p align="left">
+5/ Find the 4-wire button cable: it has a white plug on one end and four separate wires with metal contacts on the other.
+<br>
+Insert the plug into the white connector labeled “Button” on the Voice HAT board.
+</p><br>
+<p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-6.jpg" width="600">
 </p>
 <p align="left">
+6/ Find the Voice HAT Microphone board and the 5-wire daughter board cable from your kit (pictured).
+<br>
+Insert the 5-wire plug into the Microphone board.
+</p><br>
+<p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/hardware-7.jpg" width="600">
+</p>
+<p align="left">
+7/ Plug the Microphone board to the Voice Hat board using the white connector labeled “Mic.”
 </p>
 <br><br>
 
-<b><font color="5fa9f9">2. FOLD THE CARDBOARD<br></b>
+<b>2. FOLD THE CARDBOARDx</b><br>
 <b>2.1 BUILD THE BOX</b>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/box-1.jpg" width="600">
@@ -99,7 +143,7 @@ exemple commande: "src/examples/voice/assistant_library_demo.py
 <br><br>
 
 
-<b><font color="5fa9f9">3. PUT IT ALL TOGETHER</b>
+<b>3. PUT IT ALL TOGETHER</b>
 <p align="left">
   <img src="https://aiyprojects.withgoogle.com/static/images/aiy-projects-voice/assembly/together-1.jpg" width="600">
 </p>
@@ -136,7 +180,7 @@ exemple commande: "src/examples/voice/assistant_library_demo.py
 <br><br>
 
 
-<b><font color="5fa9f9">4. GET THE VOICE KIT SD IMAGE</b> --> <i>Skip this step?</i><br><br>
+<b>4. GET THE VOICE KIT SD IMAGE</b> --> <i>Skip this step?</i><br><br>
 You’ll need to download the Voice Kit SD image using another computer. Both of the next steps can take several minutes for your computer to complete, so while you're waiting, get started on "Assemble the hardware" in the next step.
 <br><br>
 Get the <a href="https://dl.google.com/dl/aiyprojects/aiyprojects-latest.img.xz">Voice Kit SD image</a>.
@@ -145,6 +189,6 @@ Write the image to an SD card using a card writing utility using <a href="https:
 <br><br>
 
 
-<b><font color="5fa9f9">5. CONNECT & BOOTH THE DEVICE
+<b>5. CONNECT & BOOTH THE DEVICE
 
 <br><br>
